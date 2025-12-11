@@ -156,7 +156,7 @@ python pre_push.py --devlog-only --notes "Completed handoff system implementatio
 
 The script works with your existing git repository:
 
-- Repository: https://github.com/WPMG99/Echo
+- Repository: https://github.com/wyldephyre/ECHO
 - Automatically detects current branch
 - Handles authentication through git credentials
 
@@ -167,7 +167,7 @@ The script works with your existing git repository:
 Initialize git first:
 ```bash
 git init
-git remote add origin https://github.com/WPMG99/Echo.git
+git remote add origin https://github.com/wyldephyre/ECHO.git
 ```
 
 ### "Git not found"
