@@ -42,6 +42,10 @@ logs/
 *.swo
 *~
 
+# Cursor & Factory AI (local IDE files - DO NOT COMMIT)
+.cursor/
+.factory/
+
 # OS
 .DS_Store
 Thumbs.db
